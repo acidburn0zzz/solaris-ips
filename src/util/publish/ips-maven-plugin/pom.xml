@@ -126,7 +126,7 @@
         <maven-version>3.3.3</maven-version>
         <maven-plugin-annotations-version>3.4</maven-plugin-annotations-version>
         <jdom-version>2.0.2</jdom-version>
-        <lang3-version>3.4</lang3-version>
+        <lang3-version>3.18.0</lang3-version>
         <aether-util-version>1.0.2.v20150114</aether-util-version>
     </properties>
        <dependencies>
